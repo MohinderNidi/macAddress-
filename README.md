@@ -27,7 +27,7 @@ Install project dependency - ``` pip install -r requirements.txt ```
 
 ### Running the code
 
-Usage: ``` python find_mac_addr.py --macaddr 44:38:39:ff:ef:57 ```
+Usage: ``` python3 find_mac_addr.py --macaddr 44:38:39:ff:ef:57 ```
 
 ### Help
 
