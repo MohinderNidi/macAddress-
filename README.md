@@ -31,7 +31,7 @@ Usage: ``` python3 find_mac_addr.py --macaddr 44:38:39:ff:ef:57 ```
 
 ### Help
 
-```python find_mac_addr.py --help```
+```python3 find_mac_addr.py --help```
 
 
 
